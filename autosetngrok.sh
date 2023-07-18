@@ -1,6 +1,6 @@
 rm -rf ngrok ngrok.zip ng.sh > /dev/null 2>&1
 echo "======================="
-echo "Auto Setup Ngrok Token"
+echo "1hQpFRJ1NwLJ250CB1tJ7AP0NKS_7VKdHnaQaUpg5zh3vd8TQ"
 echo "======================="
 wget -O ngrok.zip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip > /dev/null 2>&1
 unzip ngrok.zip > /dev/null 2>&1
